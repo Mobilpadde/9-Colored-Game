@@ -1,4 +1,4 @@
-9-Colored-Game
+9 Colored Game
 ==============
 
-Hi
+A simple game shooter made in js/html5
